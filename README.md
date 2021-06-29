@@ -1,2 +1,5 @@
 # Glow-PyTorch-TPU
-Trying to train Glow models on Google Colab / Kaggle TPUs
+
+**Still Under Construction**
+
+I'm trying to train Glow models on Google Colab / Kaggle TPUs
